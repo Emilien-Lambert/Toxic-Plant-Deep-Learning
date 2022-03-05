@@ -7,10 +7,20 @@ Python algorithm to determine whether a plant is toxic or not, using an artifici
 ## Result 
 
 ### Cost function
-![](cost_curve.png)
+
+<p align="center">
+    ![](cost_curve.png)
+</p>
 
 ### 3D Graph
-![](3d_chart.png)
+
+<p align="center">
+    ![](3d_chart.png)
+</p>
 
 ### 2D Graph
-![](2d_chart.png)
+
+<p align="center">
+    ![](2d_chart.png)
+</p>
+
